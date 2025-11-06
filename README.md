@@ -28,6 +28,8 @@ const store = configureStore({
   },
 });
 
+
+---
 ## **1. SYNCHRONOUS STATE: `contactSlice.js`**
 
 This slice manages the list of contacts (`contacts`). It uses standard **RTK reducers** for instantaneous state changes:
