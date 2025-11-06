@@ -27,7 +27,7 @@ const store = configureStore({
     usersList: usersReducer,       // Asynchronous logic (Users)
   },
 });
-
+```
 
 ---
 ## **1. SYNCHRONOUS STATE: `contactSlice.js`**
